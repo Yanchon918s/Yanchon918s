@@ -1,10 +1,4 @@
-<!-- ============================================================
-     Yanchon918s :: GitHub Profile README
-     Design notes:
-       - Core built from plain Markdown / shields.io / self-hosted snake (won't break)
-       - *.vercel.app deps marked with WARN (self-host required)
-     Layout: whoami -> nmap -> tech -> CVE log -> hobbies -> snake
-     ============================================================ -->
+
 
 
 ```yaml
