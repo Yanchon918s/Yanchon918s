@@ -4,8 +4,7 @@
 ```yaml
 operator:   Yanchon918s
 role:       Security Researcher & Backend Engineer
-location:   Sapporo, Hokkaido / JP
-status:     SE student  ->  2027 grad
+location:   Hokkaido / JP
 focus:
   - Application Security  (OAuth / scope analysis)
   - Vulnerability Research  ->  CVE / HackerOne
