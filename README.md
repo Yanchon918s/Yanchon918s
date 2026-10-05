@@ -1,12 +1,12 @@
 <!--
   Advisory source of truth: Yanchon918s/ao9s-blog  src/data/works.ts
   Verified 2026-10-05: all 20 GHSA entries are state=published and credit Yanchon918s.
-  When works.ts changes, update the counter badges and the table below.
+  When works.ts changes, update the counter badges and the icon row below.
 -->
 
-<div align="center">
+<h1 align="center">Yanchon918s</h1>
 
-<a href="https://github.com/Yanchon918s"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Yanchon918s;Security+Researcher+%C2%B7+Backend+Engineer;Hokkaido%2C+JP" alt="Yanchon918s — Security Researcher · Backend Engineer — Hokkaido, JP" /></a>
+<div align="center">
 
 <a href="https://blog.ao9s.net/"><img src="https://img.shields.io/badge/Blog-blog.ao9s.net-0F172A?style=for-the-badge&logo=astro&logoColor=white" alt="Blog" /></a>
 <a href="https://zenn.dev/ao9s"><img src="https://img.shields.io/badge/Zenn-ao9s-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" /></a>
@@ -49,8 +49,8 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Projects-14-0969DA?style=for-the-badge" alt="14 projects" />
-<img src="https://img.shields.io/badge/Reports-21-0969DA?style=for-the-badge" alt="21 reports" />
+<img src="https://img.shields.io/badge/Projects-13-0969DA?style=for-the-badge" alt="13 projects" />
+<img src="https://img.shields.io/badge/Advisories-20-0969DA?style=for-the-badge" alt="20 advisories" />
 <img src="https://img.shields.io/badge/CVE-12-0969DA?style=for-the-badge" alt="12 CVEs" />
 
 <img src="https://img.shields.io/badge/Critical-7-B60205?style=for-the-badge" alt="7 critical" />
@@ -58,26 +58,23 @@
 <img src="https://img.shields.io/badge/Medium-3-FBCA04?style=for-the-badge" alt="3 medium" />
 <img src="https://img.shields.io/badge/Low-1-6C757D?style=for-the-badge" alt="1 low" />
 
-</div>
+<br />
 
-| Project | Severity | ID |
-|---|:---:|---|
-| [traQ](https://github.com/traPtitech/traQ) | 🟡 | [GHSA-32hp-h858-9572](https://github.com/traPtitech/traQ/security/advisories/GHSA-32hp-h858-9572) |
-| [google/sam](https://github.com/google/sam) | 🔴 | [GHSA-r6hp-67wp-c7jx](https://github.com/google/sam/security/advisories/GHSA-r6hp-67wp-c7jx) |
-| [compliance-trestle](https://github.com/oscal-compass/compliance-trestle) | 🟠 | [CVE-2026-57171](https://www.cve.org/CVERecord?id=CVE-2026-57171) |
-| [Plane](https://github.com/makeplane/plane) | 🔴 🔴 | [GHSA-4vj8-p63v-8p24](https://github.com/makeplane/plane/security/advisories/GHSA-4vj8-p63v-8p24) · [GHSA-mqjv-rwgv-4gxq](https://github.com/makeplane/plane/security/advisories/GHSA-mqjv-rwgv-4gxq) |
-| [Pimcore](https://github.com/pimcore/pimcore) | 🔴 | [CVE-2026-55634](https://www.cve.org/CVERecord?id=CVE-2026-55634) |
-| [swift-nio-ssh](https://github.com/apple/swift-nio-ssh) | 🔴 | [CVE-2026-43798](https://www.cve.org/CVERecord?id=CVE-2026-43798) |
-| [Yamcs](https://github.com/yamcs/yamcs) | 🔴 | [CVE-2026-55511](https://www.cve.org/CVERecord?id=CVE-2026-55511) |
-| [Firefox](https://www.mozilla.org/firefox/) | — | Mozilla Bug 2044527 |
-| [FastGPT](https://github.com/labring/FastGPT) | 🟠 | [GHSA-5jmh-5f2m-89jg](https://github.com/labring/FastGPT/security/advisories/GHSA-5jmh-5f2m-89jg) |
-| [PraisonAI](https://github.com/MervinPraison/PraisonAI) | 🔴 | [CVE-2026-57148](https://www.cve.org/CVERecord?id=CVE-2026-57148) |
-| [phpMyFAQ](https://github.com/thorsten/phpMyFAQ) | 🟠 🟠 | [GHSA-r2f4-v277-hvw9](https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-r2f4-v277-hvw9) · [GHSA-pg62-f8g4-4wqh](https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-pg62-f8g4-4wqh) |
-| [Fission](https://github.com/fission/fission) | 🟠 | [CVE-2026-50570](https://www.cve.org/CVERecord?id=CVE-2026-50570) |
-| [Sandboxie-Plus](https://github.com/sandboxie-plus/Sandboxie) | 🟠 🟠 🟠 🟡 | [CVE-2026-34461](https://www.cve.org/CVERecord?id=CVE-2026-34461) · [CVE-2026-34462](https://www.cve.org/CVERecord?id=CVE-2026-34462) · [CVE-2026-34464](https://www.cve.org/CVERecord?id=CVE-2026-34464) · [CVE-2026-34527](https://www.cve.org/CVERecord?id=CVE-2026-34527) |
-| [Cryptomator](https://github.com/cryptomator/cryptomator) | 🟠 🟡 ⚪ | [CVE-2026-32309](https://www.cve.org/CVERecord?id=CVE-2026-32309) · [CVE-2026-32310](https://www.cve.org/CVERecord?id=CVE-2026-32310) · [GHSA-q8q3-2cf9-cxrp](https://github.com/cryptomator/cryptomator/security/advisories/GHSA-q8q3-2cf9-cxrp) |
+<a href="https://github.com/traPtitech/traQ/security/advisories/GHSA-32hp-h858-9572" title="traQ"><img src="https://github.com/traPtitech.png?size=96" width="48" height="48" alt="traQ" title="traQ" /></a>&nbsp;
+<a href="https://github.com/google/sam/security/advisories/GHSA-r6hp-67wp-c7jx" title="google/sam"><img src="https://github.com/google.png?size=96" width="48" height="48" alt="google/sam" title="google/sam" /></a>&nbsp;
+<a href="https://github.com/oscal-compass/compliance-trestle/security/advisories/GHSA-r4vp-3vw6-r2x5" title="compliance-trestle"><img src="https://github.com/oscal-compass.png?size=96" width="48" height="48" alt="compliance-trestle" title="compliance-trestle" /></a>&nbsp;
+<a href="https://github.com/makeplane/plane/security/advisories" title="Plane"><img src="https://github.com/makeplane.png?size=96" width="48" height="48" alt="Plane" title="Plane" /></a>&nbsp;
+<a href="https://github.com/pimcore/pimcore/security/advisories/GHSA-9x44-4gxf-8c25" title="Pimcore"><img src="https://github.com/pimcore.png?size=96" width="48" height="48" alt="Pimcore" title="Pimcore" /></a>&nbsp;
+<a href="https://github.com/apple/swift-nio-ssh/security/advisories/GHSA-998x-vgvp-xwpc" title="swift-nio-ssh"><img src="https://github.com/apple.png?size=96" width="48" height="48" alt="swift-nio-ssh" title="swift-nio-ssh" /></a>&nbsp;
+<a href="https://github.com/yamcs/yamcs/security/advisories/GHSA-3g44-3m7x-cgg2" title="Yamcs"><img src="https://github.com/yamcs.png?size=96" width="48" height="48" alt="Yamcs" title="Yamcs" /></a>&nbsp;
+<a href="https://github.com/labring/FastGPT/security/advisories/GHSA-5jmh-5f2m-89jg" title="FastGPT"><img src="https://github.com/labring.png?size=96" width="48" height="48" alt="FastGPT" title="FastGPT" /></a>&nbsp;
+<a href="https://github.com/MervinPraison/PraisonAI/security/advisories/GHSA-f38v-77qj-h4jq" title="PraisonAI"><img src="https://github.com/PraisonAI.png?size=96" width="48" height="48" alt="PraisonAI" title="PraisonAI" /></a>&nbsp;
+<a href="https://github.com/thorsten/phpMyFAQ/security/advisories" title="phpMyFAQ"><img src="https://github.com/phpMyFAQ.png?size=96" width="48" height="48" alt="phpMyFAQ" title="phpMyFAQ" /></a>&nbsp;
+<a href="https://github.com/fission/fission/security/advisories/GHSA-qf5v-m7p4-95rp" title="Fission"><img src="https://github.com/fission.png?size=96" width="48" height="48" alt="Fission" title="Fission" /></a>&nbsp;
+<a href="https://github.com/sandboxie-plus/Sandboxie/security/advisories" title="Sandboxie-Plus"><img src="https://github.com/sandboxie-plus.png?size=96" width="48" height="48" alt="Sandboxie-Plus" title="Sandboxie-Plus" /></a>&nbsp;
+<a href="https://github.com/cryptomator/cryptomator/security/advisories" title="Cryptomator"><img src="https://github.com/cryptomator.png?size=96" width="48" height="48" alt="Cryptomator" title="Cryptomator" /></a>
 
-<div align="center">
+<br />
 
 <a href="https://blog.ao9s.net/works/"><img src="https://img.shields.io/badge/Full_list-blog.ao9s.net%2Fworks-555555?style=flat-square" alt="Full list on blog.ao9s.net/works" /></a>
 
